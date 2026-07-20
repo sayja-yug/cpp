@@ -11,5 +11,7 @@ int main(){
         cout << "brewing a cup of tea \n" << i << " and  " << teaCups - i<< " cups left to serve \n"<< endl;
 
     }
+    
+    cout << "outside the loop" << endl;
     return 0;
 }
